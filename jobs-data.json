@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-10",
+  "lastUpdate": "2026-10-11",
   "jobs": [
     {
       "id": "c9",
@@ -2431,6 +2431,520 @@
                 "This page summarises information published on government websites; requirements can change at any time, so check the official pages before any step.",
                 "Your account is yours alone: never share your login details."
               ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "c21",
+      "category": "private",
+      "posted": "2026-10-11",
+      "image": "handicap-forum.svg",
+      "title": {
+        "ar": "ملتقى التشغيل لذوي الاحتياجات الخاصة — الدار البيضاء، 24 أكتوبر 2026",
+        "fr": "Forum d'emploi pour personnes en situation de handicap — Casablanca, 24 oct. 2026",
+        "en": "Job Forum for People with Disabilities — Casablanca, Oct 24, 2026"
+      },
+      "tag": {
+        "ar": "ملتقى توظيف",
+        "fr": "Forum d'emploi",
+        "en": "Job Forum"
+      },
+      "meta": {
+        "ar": "من 10:00 إلى 16:00 — فندق برج كنزي، المعاريف",
+        "fr": "10h–16h — Kenzi Tower Hotel, Maarif",
+        "en": "10:00–16:00 — Kenzi Tower Hotel, Maarif"
+      },
+      "deadline": {
+        "ar": "الملتقى يوم <b>24 أكتوبر 2026</b>",
+        "fr": "Forum le <b>24 octobre 2026</b>",
+        "en": "Forum on <b>October 24, 2026</b>"
+      },
+      "description": {
+        "ar": "يوم للتوظيف وريادة الأعمال لدعم الإدماج المهني للأشخاص ذوي الاحتياجات الخاصة، مع شركات ملتزمة بالإدماج. التسجيل المسبق على الموقع للحصول على الدعوة.",
+        "fr": "Journée pour l'emploi et l'entrepreneuriat favorisant l'insertion professionnelle des personnes en situation de handicap, avec des entreprises engagées. Inscription préalable sur le site pour recevoir l'invitation.",
+        "en": "A job and entrepreneurship day supporting the professional inclusion of people with disabilities, with inclusion-minded companies. Register on the website first to receive your invitation."
+      },
+      "applyUrl": "https://www.handicapmaroc.com/",
+      "details": {
+        "ar": {
+          "sections": [
+            {
+              "h": "معلومات الملتقى",
+              "list": [
+                "التاريخ: 24 أكتوبر 2026",
+                "التوقيت: من 10:00 إلى 16:00",
+                "المكان: فندق برج كنزي — المعاريف، الدار البيضاء",
+                "الجهة المنظمة: Handicap MAROC",
+                "للاستفسار: 0719008709"
+              ]
+            },
+            {
+              "h": "من يمكنه الحضور؟",
+              "p": "الملتقى موجّه للأشخاص ذوي الاحتياجات الخاصة الباحثين عن عمل، ولمتابعة اللقاء مع شركات ملتزمة بالإدماج المهني."
+            },
+            {
+              "h": "طريقة التسجيل",
+              "p": "للحصول على دعوة الحضور، سجّل عبر الموقع الرسمي: <a href=\"https://www.handicapmaroc.com/\" target=\"_blank\" rel=\"noopener\">🔗 handicapmaroc.com ↗</a>"
+            },
+            {
+              "h": "ملاحظة",
+              "p": "تحقق من التاريخ والمكان في الموقع الرسمي قبل التنقل، فقد تتغير تفاصيل التنظيم."
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "h": "Informations sur le forum",
+              "list": [
+                "Date : 24 octobre 2026",
+                "Horaire : de 10h à 16h",
+                "Lieu : Kenzi Tower Hotel — Maarif, Casablanca",
+                "Organisation : Handicap MAROC",
+                "Renseignements : 0719008709"
+              ]
+            },
+            {
+              "h": "Qui peut participer ?",
+              "p": "Le forum s'adresse aux personnes en situation de handicap en recherche d'emploi, pour rencontrer des entreprises engagées dans l'insertion professionnelle."
+            },
+            {
+              "h": "Comment s'inscrire",
+              "p": "Pour recevoir votre invitation, inscrivez-vous sur le site officiel : <a href=\"https://www.handicapmaroc.com/\" target=\"_blank\" rel=\"noopener\">🔗 handicapmaroc.com ↗</a>"
+            },
+            {
+              "h": "Remarque",
+              "p": "Vérifiez la date et le lieu sur le site officiel avant de vous déplacer : l'organisation peut évoluer."
+            }
+          ]
+        },
+        "en": {
+          "sections": [
+            {
+              "h": "Forum details",
+              "list": [
+                "Date: October 24, 2026",
+                "Time: 10:00 to 16:00",
+                "Venue: Kenzi Tower Hotel — Maarif, Casablanca",
+                "Organiser: Handicap MAROC",
+                "Information: 0719008709"
+              ]
+            },
+            {
+              "h": "Who can attend?",
+              "p": "The forum is for jobseekers with disabilities who want to meet companies committed to professional inclusion."
+            },
+            {
+              "h": "How to register",
+              "p": "To receive your invitation, register on the official website: <a href=\"https://www.handicapmaroc.com/\" target=\"_blank\" rel=\"noopener\">🔗 handicapmaroc.com ↗</a>"
+            },
+            {
+              "h": "Note",
+              "p": "Check the date and venue on the official website before travelling: arrangements may change."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "c22",
+      "category": "institutes",
+      "posted": "2026-10-11",
+      "image": "arm-meknes.svg",
+      "title": {
+        "ar": "الأكاديمية الملكية العسكرية بمكناس: شروط الترشح والتسجيل",
+        "fr": "Académie Royale Militaire de Meknès : conditions de candidature",
+        "en": "Royal Military Academy, Meknes: Application Requirements"
+      },
+      "tag": {
+        "ar": "المعاهد والمدارس",
+        "fr": "Instituts et écoles",
+        "en": "Institutes & Schools"
+      },
+      "meta": {
+        "ar": "سلك تلاميذ الضباط — بكالوريا",
+        "fr": "Cycle élèves officiers — Baccalauréat",
+        "en": "Officer cadet programme — Baccalaureate"
+      },
+      "deadline": {
+        "ar": "تسجيل دورة 2026 أُغلق في <b>29 ماي 2026</b>",
+        "fr": "Inscriptions 2026 closes le <b>29 mai 2026</b>",
+        "en": "2026 registration closed on <b>May 29, 2026</b>"
+      },
+      "description": {
+        "ar": "شروط الترشح لسلك تلاميذ الضباط ومراحل الانتقاء. التسجيل يتم إلكترونيًا عبر بوابة recrutement.far.ma عند فتح باب الترشيح.",
+        "fr": "Conditions de candidature au cycle des élèves officiers et étapes de sélection. L'inscription se fait en ligne via recrutement.far.ma à l'ouverture des candidatures.",
+        "en": "Requirements for the officer cadet programme and selection stages. Registration is online via recrutement.far.ma when applications open."
+      },
+      "applyUrl": "https://recrutement.far.ma/",
+      "details": {
+        "ar": {
+          "sections": [
+            {
+              "h": "شروط الترشح (سلك ضباط القوات المسلحة الملكية)",
+              "list": [
+                "عازب(ة).",
+                "الحصول على شهادة البكالوريا في السنة الجارية حسب التخصص.",
+                "السن بين 18 و22 سنة إلى غاية 31 دجنبر من سنة الترشيح.",
+                "التمتع بصحة بدنية جيدة.",
+                "الطول الأدنى: 1.70 م للذكور و1.60 م للإناث.",
+                "عدم وجود سوابق عدلية."
+              ]
+            },
+            {
+              "h": "مراحل الانتقاء",
+              "list": [
+                "انتقاء أولي اعتمادًا على معدل البكالوريا (الدورة العادية) بميزة «مستحسن».",
+                "استدعاء المترشحين لاختبارات طبية وبدنية ونفسية وتقنية.",
+                "اختبار شفوي.",
+                "الإعلان عن لائحة الناجحين المقبولين للتكوين الأساسي."
+              ]
+            },
+            {
+              "h": "التسجيل",
+              "p": "يتم التسجيل الإلكتروني عبر بوابة القوات المسلحة الملكية: <a href=\"https://recrutement.far.ma/\" target=\"_blank\" rel=\"noopener\">🔗 recrutement.far.ma ↗</a>"
+            },
+            {
+              "h": "⚠️ تنبيه",
+              "list": [
+                "آخر أجل لدورة 2026 كان 29 ماي 2026 حسب مصادر منشورة، فالتسجيل مغلق حاليًا. المعلومات هنا للاطلاع والاستعداد للدورة القادمة.",
+                "الشروط مأخوذة من مصادر منشورة وقد تتغير في إعلان الدورة الجديدة، فتأكد منها على البوابة الرسمية."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "h": "Conditions (cycle officiers des Forces Armées Royales)",
+              "list": [
+                "Célibataire.",
+                "Baccalauréat de l'année en cours selon la filière.",
+                "Âge : 18 à 22 ans jusqu'au 31 décembre de l'année de candidature.",
+                "Bonne condition physique.",
+                "Taille minimale : 1,70 m (hommes) et 1,60 m (femmes).",
+                "Casier judiciaire vierge."
+              ]
+            },
+            {
+              "h": "Étapes de sélection",
+              "list": [
+                "Présélection selon la moyenne du baccalauréat (session normale), mention « Assez bien » ou plus.",
+                "Convocation aux épreuves médicales, physiques, psychologiques et techniques.",
+                "Épreuve orale.",
+                "Publication de la liste des admis à la formation de base."
+              ]
+            },
+            {
+              "h": "Inscription",
+              "p": "L'inscription se fait en ligne sur le portail des Forces Armées Royales : <a href=\"https://recrutement.far.ma/\" target=\"_blank\" rel=\"noopener\">🔗 recrutement.far.ma ↗</a>"
+            },
+            {
+              "h": "⚠️ Attention",
+              "list": [
+                "La date limite de la session 2026 était le 29 mai 2026 selon des sources publiées : les inscriptions sont donc closes. Informations à titre indicatif pour préparer la prochaine session.",
+                "Ces conditions proviennent de sources publiées et peuvent changer dans l'avis de la nouvelle session : vérifiez-les sur le portail officiel."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "sections": [
+            {
+              "h": "Requirements (Royal Armed Forces officer track)",
+              "list": [
+                "Single.",
+                "Baccalaureate of the current year, according to the track.",
+                "Age 18 to 22 up to December 31 of the application year.",
+                "Good physical health.",
+                "Minimum height: 1.70 m (men) and 1.60 m (women).",
+                "No criminal record."
+              ]
+            },
+            {
+              "h": "Selection stages",
+              "list": [
+                "Preliminary selection by baccalaureate average (regular session), with a 'good' distinction or higher.",
+                "Call-up for medical, physical, psychological and technical tests.",
+                "Oral test.",
+                "Announcement of the list of admitted candidates for basic training."
+              ]
+            },
+            {
+              "h": "Registration",
+              "p": "Registration is online through the Royal Armed Forces portal: <a href=\"https://recrutement.far.ma/\" target=\"_blank\" rel=\"noopener\">🔗 recrutement.far.ma ↗</a>"
+            },
+            {
+              "h": "⚠️ Notice",
+              "list": [
+                "The 2026 deadline was May 29, 2026 according to published sources, so registration is currently closed. This information is for reference and preparing for the next session.",
+                "These requirements come from published sources and may change in the next announcement: check them on the official portal."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "p15",
+      "category": "private",
+      "posted": "2026-10-11",
+      "image": "vendeurs-anapec.svg",
+      "title": {
+        "ar": "أنابيك: 50 بائعًا وبائعة بعدة مدن — الراتب 3000 درهم",
+        "fr": "ANAPEC : 50 vendeurs/vendeuses dans plusieurs villes — 3000 DH",
+        "en": "ANAPEC: 50 Sales Assistants in Several Cities — 3,000 MAD"
+      },
+      "tag": {
+        "ar": "القطاع الخاص",
+        "fr": "Secteur privé",
+        "en": "Private Sector"
+      },
+      "meta": {
+        "ar": "عقد CDI — الراتب 3000 درهم",
+        "fr": "Contrat CDI — Salaire 3000 DH",
+        "en": "CDI contract — Salary 3,000 MAD"
+      },
+      "deadline": {
+        "ar": "مرجع أنابيك: <b>SA1609261166872</b>",
+        "fr": "Réf. ANAPEC : <b>SA1609261166872</b>",
+        "en": "ANAPEC ref: <b>SA1609261166872</b>"
+      },
+      "description": {
+        "ar": "عرض أنابيك لتوظيف بائعين وبائعات في قطاع التجارة بعدة مدن، لحاملي البكالوريا.",
+        "fr": "Offre ANAPEC : recrutement de vendeurs et vendeuses dans le secteur du commerce, dans plusieurs villes, niveau baccalauréat.",
+        "en": "ANAPEC offer: sales assistants wanted in the retail sector in several cities, baccalaureate level."
+      },
+      "applyUrl": "https://anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1166872/resultat_recherche",
+      "details": {
+        "ar": {
+          "sections": [
+            {
+              "h": "معلومات العرض",
+              "list": [
+                "عدد المناصب: 50",
+                "مكان العمل: عدة مدن",
+                "نوع العقد: CDI",
+                "الراتب الشهري: 3000 درهم",
+                "قطاع النشاط: تجارة الجملة ووساطة التجارة",
+                "تاريخ العرض: 16/09/2026",
+                "الوكالة: SALE / HAMMOUNI"
+              ]
+            },
+            {
+              "h": "الشروط المطلوبة",
+              "list": [
+                "التكوين: البكالوريا.",
+                "الخبرة: أقل من 6 أشهر.",
+                "العربية: لغة الأم.",
+                "الفرنسية: جيد."
+              ]
+            },
+            {
+              "h": "طريقة التقديم",
+              "p": "يتم التقديم عبر صفحة العرض الرسمية على أنابيك: <a href=\"https://anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1166872/resultat_recherche\" target=\"_blank\" rel=\"noopener\">🔗 التقديم عبر أنابيك ↗</a>"
+            },
+            {
+              "h": "عرض آخر ضمن الإعلان نفسه",
+              "p": "50 بائعًا وبائعة بالدار البيضاء (الحي الحسني) بعقد CI، لحاملي دبلوم تقني متخصص (وكيل تقني للبيع)، رخصة B، إتقان Word وExcel، فرنسية جيدة وإنجليزية أساسية: <a href=\"https://anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1166812/resultat_recherche\" target=\"_blank\" rel=\"noopener\">🔗 صفحة العرض ↗</a>"
+            },
+            {
+              "h": "ملاحظة",
+              "p": "العرضان بتاريخ 16/09/2026، فتأكد على أنابيك أنهما ما زالا متاحين قبل التقديم."
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "h": "Informations sur l'offre",
+              "list": [
+                "Nombre de postes : 50",
+                "Lieu de travail : Plusieurs villes",
+                "Type de contrat : CDI",
+                "Salaire mensuel : 3000 DH",
+                "Secteur : Commerce de gros et intermédiaires du commerce",
+                "Date de l'offre : 16/09/2026",
+                "Agence : SALE / HAMMOUNI"
+              ]
+            },
+            {
+              "h": "Profil recherché",
+              "list": [
+                "Formation : Baccalauréat.",
+                "Expérience : moins de 6 mois.",
+                "Arabe : langue maternelle.",
+                "Français : bon."
+              ]
+            },
+            {
+              "h": "Comment postuler",
+              "p": "La candidature se fait via la page officielle de l'offre sur l'ANAPEC : <a href=\"https://anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1166872/resultat_recherche\" target=\"_blank\" rel=\"noopener\">🔗 Postuler via ANAPEC ↗</a>"
+            },
+            {
+              "h": "Autre offre dans la même annonce",
+              "p": "50 vendeurs/vendeuses à Casablanca (Hay Hassani) en CI, avec diplôme de technicien spécialisé (agent technique de vente), permis B, maîtrise de Word et Excel, français courant et notions d'anglais : <a href=\"https://anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1166812/resultat_recherche\" target=\"_blank\" rel=\"noopener\">🔗 Page de l'offre ↗</a>"
+            },
+            {
+              "h": "Remarque",
+              "p": "Les deux offres datent du 16/09/2026 : vérifiez sur l'ANAPEC qu'elles sont toujours ouvertes avant de postuler."
+            }
+          ]
+        },
+        "en": {
+          "sections": [
+            {
+              "h": "Offer details",
+              "list": [
+                "Number of positions: 50",
+                "Workplace: Several cities",
+                "Contract type: CDI",
+                "Monthly salary: 3,000 MAD",
+                "Sector: Wholesale trade and trade intermediaries",
+                "Offer date: 09/16/2026",
+                "Agency: SALE / HAMMOUNI"
+              ]
+            },
+            {
+              "h": "Requirements",
+              "list": [
+                "Education: Baccalaureate.",
+                "Experience: under 6 months.",
+                "Arabic: native.",
+                "French: good."
+              ]
+            },
+            {
+              "h": "How to apply",
+              "p": "Apply through the official offer page on ANAPEC: <a href=\"https://anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1166872/resultat_recherche\" target=\"_blank\" rel=\"noopener\">🔗 Apply via ANAPEC ↗</a>"
+            },
+            {
+              "h": "Another offer in the same announcement",
+              "p": "50 sales assistants in Casablanca (Hay Hassani) on a CI contract, with a specialised technician diploma (technical sales agent), licence B, Word and Excel skills, fluent French and basic English: <a href=\"https://anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1166812/resultat_recherche\" target=\"_blank\" rel=\"noopener\">🔗 Offer page ↗</a>"
+            },
+            {
+              "h": "Note",
+              "p": "Both offers are dated 09/16/2026: check on ANAPEC that they are still open before applying."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "p16",
+      "category": "private",
+      "posted": "2026-10-11",
+      "image": "eni-group.svg",
+      "title": {
+        "ar": "ENI Group Maroc: عدة مناصب بالنواصر والدار البيضاء — رواتب حتى 15000 درهم",
+        "fr": "ENI Group Maroc : plusieurs postes à Nouaceur et Casablanca — jusqu'à 15 000 DH",
+        "en": "ENI Group Maroc: Several Positions in Nouaceur and Casablanca — Up to 15,000 MAD"
+      },
+      "tag": {
+        "ar": "القطاع الخاص",
+        "fr": "Secteur privé",
+        "en": "Private Sector"
+      },
+      "meta": {
+        "ar": "الأجور من 3500 إلى 15000 درهم",
+        "fr": "Salaires de 3 500 à 15 000 DH",
+        "en": "Salaries from 3,500 to 15,000 MAD"
+      },
+      "deadline": {
+        "ar": "نُشر في <b>3 أكتوبر 2026</b>",
+        "fr": "Publié le <b>3 octobre 2026</b>",
+        "en": "Posted on <b>October 3, 2026</b>"
+      },
+      "description": {
+        "ar": "شركة ENI Group Maroc توظف لفائدة زبنائها مناصب في الفوترة وإدخال البيانات والموارد البشرية بالنواصر (Medpark) والدار البيضاء (عين السبع).",
+        "fr": "ENI Group Maroc recrute pour le compte de ses clients : facturation, saisie de données et ressources humaines à Nouaceur (Medpark) et Casablanca (Aïn Sebaâ).",
+        "en": "ENI Group Maroc is hiring on behalf of its clients: invoicing, data entry and HR roles in Nouaceur (Medpark) and Casablanca (Aïn Sebaâ)."
+      },
+      "applyUrl": "mailto:recrutement@eni.ma",
+      "details": {
+        "ar": {
+          "sections": [
+            {
+              "h": "نبذة عن الشركة",
+              "p": "ENI Group Maroc حاضرة بالمغرب منذ 1993، وتنشط في الموارد البشرية والعمل المؤقت والحراسة والأمن الخاص وخدمات الشركات."
+            },
+            {
+              "h": "المناصب المعلنة",
+              "list": [
+                "وكيل(ة) فوترة — النواصر Medpark (عمل بنظام shift ليلي).",
+                "وكيل(ة) إدخال بيانات — النواصر Medpark.",
+                "مسؤول(ة) موارد بشرية بخبرة — الدار البيضاء عين السبع، لحساب زبون في القطاع الصناعي (الراتب بين 10000 و15000 درهم)."
+              ]
+            },
+            {
+              "h": "الأجور",
+              "p": "من 3500 إلى 15000 درهم حسب المنصب والمؤهلات والخبرة المطلوبة."
+            },
+            {
+              "h": "طريقة التقديم",
+              "p": "أرسل سيرتك الذاتية إلى البريد: <a href=\"mailto:recrutement@eni.ma\">recrutement@eni.ma</a> مع ذكر المنصب والمدينة في عنوان الرسالة. موقع الشركة: <a href=\"http://eni.ma\" target=\"_blank\" rel=\"noopener\">🔗 eni.ma ↗</a>"
+            },
+            {
+              "h": "ملاحظة",
+              "p": "هذا البريد هو بريد التوظيف الذي نشرته الشركة في إعلانات سابقة، وتفاصيل التقديم لهذا الإعلان تُراجَع في الإعلان الأصلي قبل الإرسال."
+            }
+          ]
+        },
+        "fr": {
+          "sections": [
+            {
+              "h": "À propos de l'entreprise",
+              "p": "Présent au Maroc depuis 1993, ENI Group Maroc intervient dans les ressources humaines, l'intérim, le gardiennage, la sécurité privée et les services aux entreprises."
+            },
+            {
+              "h": "Postes annoncés",
+              "list": [
+                "Agent(e) de facturation — Nouaceur Medpark (horaires en shift de nuit).",
+                "Agent(e) de saisie — Nouaceur Medpark.",
+                "Responsable ressources humaines confirmé(e) — Casablanca Aïn Sebaâ, pour un client du secteur industriel (rémunération entre 10 000 et 15 000 DH)."
+              ]
+            },
+            {
+              "h": "Rémunération",
+              "p": "De 3 500 à 15 000 DH selon le poste, les qualifications et l'expérience."
+            },
+            {
+              "h": "Comment postuler",
+              "p": "Envoyez votre CV à <a href=\"mailto:recrutement@eni.ma\">recrutement@eni.ma</a> en indiquant le poste et la ville dans l'objet. Site de l'entreprise : <a href=\"http://eni.ma\" target=\"_blank\" rel=\"noopener\">🔗 eni.ma ↗</a>"
+            },
+            {
+              "h": "Remarque",
+              "p": "Cette adresse est l'adresse de recrutement publiée par l'entreprise dans des annonces précédentes : vérifiez les modalités de candidature dans l'annonce d'origine avant d'envoyer votre CV."
+            }
+          ]
+        },
+        "en": {
+          "sections": [
+            {
+              "h": "About the company",
+              "p": "Present in Morocco since 1993, ENI Group Maroc works in human resources, temporary staffing, guarding, private security and business services."
+            },
+            {
+              "h": "Positions announced",
+              "list": [
+                "Invoicing agent — Nouaceur Medpark (night shift hours).",
+                "Data entry agent — Nouaceur Medpark.",
+                "Experienced HR manager — Casablanca Aïn Sebaâ, for an industrial-sector client (salary 10,000 to 15,000 MAD)."
+              ]
+            },
+            {
+              "h": "Salary",
+              "p": "From 3,500 to 15,000 MAD depending on the position, qualifications and experience."
+            },
+            {
+              "h": "How to apply",
+              "p": "Send your CV to <a href=\"mailto:recrutement@eni.ma\">recrutement@eni.ma</a>, stating the position and city in the subject line. Company website: <a href=\"http://eni.ma\" target=\"_blank\" rel=\"noopener\">🔗 eni.ma ↗</a>"
+            },
+            {
+              "h": "Note",
+              "p": "This is the recruitment address the company published in earlier announcements: check the application instructions in the original announcement before sending your CV."
             }
           ]
         }
